@@ -3,7 +3,6 @@ This project is the Ecommerce UI, encarnation of an Isomorphic (first render on 
 
 ![Product Page](/screenshots/ProductPage.png?raw=true "Product Page")
 
-Currently, there is no vanilla version of it.
 
 Since this is a UI application only, it requires an API Backend to operate and have some use. It was written with [Ecommerce](https://github.com/mandar-harkare/ecommerce) in mind, if you wish, you can run it against any other API you like just as long as you either:
 - Ensure that API has the same endpoints and request/response as Ecommerce
