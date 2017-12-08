@@ -1,7 +1,6 @@
 # Welcome
-This project is the Ecommerce UI, encarnation of an Isomorphic (first render on the server, then Single-page App on the client) React Application for E-Commerce Storefronts.
+This project is the Ecommerce UI, encarnation of an Isomorphic (first render on the server, then Single-page App on the client) React Application for E-Commerce UI.
 
-![Product Page](/screenshots/ProductPage.png?raw=true "Product Page")
 
 
 Since this is a UI application only, it requires an API Backend to operate and have some use. It was written with [Ecommerce](https://github.com/mandar-harkare/ecommerce) in mind, if you wish, you can run it against any other API you like just as long as you either:
