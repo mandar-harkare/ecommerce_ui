@@ -1,7 +1,7 @@
 {
-  "name": "nicistore",
+  "name": "Ecommerce UI",
   "version": "1.0.0",
-  "description": "NICI Online Storefront",
+  "description": "Online Store using Ecommerce Microservices",
   "private": false,
   "repository": {
     "type": "git",
